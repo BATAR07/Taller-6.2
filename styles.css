@@ -1,5 +1,9 @@
 body {
     background-color: rgb(255, 255, 165);
+    background-image: url("img3.jpg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .image{
