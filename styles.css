@@ -1,6 +1,10 @@
 body {
     background-color: rgb(255, 255, 165);
     font-family: "Trirong", serif;
+    background-image: url("img3.jpg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .image{
@@ -17,4 +21,8 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+}
+
+div {
+    text-align: center;
 }
