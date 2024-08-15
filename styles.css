@@ -2,6 +2,7 @@ body {
     background-color: rgb(255, 255, 165);
     background-image: url("img3.jpg");
     font-family: "Trirong", serif;
+    color: #f2f2f2;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
